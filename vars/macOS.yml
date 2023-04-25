@@ -1,0 +1,7 @@
+---
+# File: macOS.yml - macOS variables for Nomad
+
+nomad_os_packages:
+  - unzip
+
+nomad_syslog_enable: false

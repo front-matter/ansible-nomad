@@ -4,6 +4,11 @@
 - Update CONTRIBUTORS
 - Update documentation
 
+## 1.9.7
+
+- Nomad v1.5.3
+- Add macOS support
+
 ## 1.9.5
 
 - Nomad v0.10.3
